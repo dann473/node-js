@@ -39,8 +39,10 @@ ifComposto();
 
 function ternario() {
     let foo = false
+    // ?(se sim) : (se não)
     let bananas = foo ? 10 : 20 
     console.log(bananas)
 }
+
 
 ternario();
